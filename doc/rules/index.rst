@@ -343,6 +343,8 @@ Operator
     Binary operators should be surrounded by space as configured.
 - `concat_space <./operator/concat_space.rst>`_
     Concatenation should be spaced according configuration.
+- `concat_to_complex_string <./operator/concat_to_complex_string.rst>`_
+    Converts concatenated strings to complex strings.
 - `increment_style <./operator/increment_style.rst>`_
     Pre- or post-increment and decrement operators should be used if possible.
 - `logical_operators <./operator/logical_operators.rst>`_ *(risky)*
